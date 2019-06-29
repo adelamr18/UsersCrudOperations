@@ -42,3 +42,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Running the json server
+please navigate to src folder then type in the terminal:
+json-server --watch db.json --port 3005
+
+becauase this will configure the website to host the users on this port and login with:
+Email:adelamr88@gmail.com
+password:123

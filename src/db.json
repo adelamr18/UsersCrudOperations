@@ -1,0 +1,37 @@
+{
+  "Users": [
+    {
+      "email": "adelamr88@gmail.com",
+      "password": "123"
+    },
+    {
+      "email": "adel@hotmail",
+      "password": "4"
+    },
+    {
+      "email": "adelamr88@gmail.com",
+      "password": "5"
+    },
+    {
+      "email": "adelamr88@gmail.com",
+      "password": "2"
+    }
+  ],
+  "Dashboardusers": [
+    {
+      "name": "wwww",
+      "age": "24",
+      "id": 2
+    },
+    {
+      "name": "Gawafa",
+      "age": "24",
+      "id": 3
+    },
+    {
+      "name": "sss",
+      "age": "3233",
+      "id": 4
+    }
+  ]
+}
